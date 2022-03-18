@@ -1,0 +1,30 @@
+/* ===================================================
+
+    Theme Name: Ready File Structuer
+    File Name: Responsive CSS
+    Author: Mahadi Hassan
+    Author URI: https://mahedihassan.com
+    Date: 01-02-2022
+    Version: 1.5v
+
+ =================================================== */
+
+@media only screen and (max-width: 320px) {
+    /*All CSS code will appear here. Please Remove this Line Before you start your Project */
+}
+
+@media only screen and (min-width: 320px) and (max-width: 360px) {
+    /*All CSS code will appear here. Please Remove this Line Before you start your Project */
+}
+
+@media only screen and (min-width: 360px) and (max-width: 480px) {
+    /*All CSS code will appear here. Please Remove this Line Before you start your Project */
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+    /*All CSS code will appear here. Please Remove this Line Before you start your Project */
+}
+
+@media only screen and (min-width: 1030px) and (max-width: 1366px) {
+    /*All CSS code will appear here. Please Remove this Line Before you start your Project */
+}
